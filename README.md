@@ -17,6 +17,16 @@ Now that you've had some practice with `R` and the format of the course, it's ti
 
 ## Questions
 
+1. How do you introduce yourself to git? (look at some of the initial lectures for the course) How often do you need to introduce yourself when you are on the RStudio server? What is the difference between a "commit" and a "push"?
 
+2. How do you check the Coordinate Reference System of a vector file using the `sf` package? What about for a raster file using the `terra` package? Why is the CRS important?
+
+3.  What is the difference between a predicate and a measure?
+
+4. As you look back on your first few assignments, what has been the biggest challenge? Do you feel like you know how to solve it? How can I help?
+
+5. As you look back on the first few weeks of lectures, what is the _one_ thing that you wish I would do differently (I'll do my best!)
+
+6. Tell me about your final project - what topic are you hoping to explore? What data are going to use? (Remember, this assignment works better if you're using data that isn't part of your thesis) If there are things I can do to help you find data or a topic, please let me know here.    
 
 
