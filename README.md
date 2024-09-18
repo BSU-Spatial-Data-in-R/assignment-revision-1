@@ -1,5 +1,5 @@
 # Assignment Revision #1
-Now that you've had some practice with `R` and the format of the course, it's time to pause and take a moment to check in on what you've learned. Because we haven't had a ton of coding yet, this review is a little more conceptual (rather than focusing on particular pieces you may have done incorrectly or inefficiently). My soluionts (or suggestions) for how I'd approach the first four assignments are posted (at the end of each assignment page). Your task here is to review those solutions and your own code and answer a few questions to demonstrate what you've learned so far and where I need to be more clear. 
+Now that you've had some practice with `R` and the format of the course, it's time to pause and take a moment to check in on what you've learned. Because we haven't had a ton of coding yet, this review is a little more conceptual (rather than focusing on particular pieces you may have done incorrectly or inefficiently). My solutions (or suggestions) for how I'd approach the first four assignments are posted (at the end of each assignment page). Your task here is to review those solutions and your own code and answer a few questions to demonstrate what you've learned so far and where I need to be more clear. 
 
 ## Instructions
 
